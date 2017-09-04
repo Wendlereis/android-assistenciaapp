@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExerNAC</string>
+    <string name="lblCadastroChamado">Cadastro de Chamado</string>
+    <string name="lblFinalizado">Finalizado</string>
+    <string name="lblCadastrar">Cadastrar</string>
+    <string name="lblPesquisarChamados">Pesquisar Chamados</string>
+    <string name="lblCodigoFuncionario">Codigo do Funcionario</string>
+    <string name="lblPesquisar">Pesquisar</string>
+    <string-array name="TipoChamado">
+        <item>Troca de Aparelho</item>
+        <item>Nova Instalação</item>
+        <item>Retirada de Aparelho</item>
+    </string-array>
+</resources>
